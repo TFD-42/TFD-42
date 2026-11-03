@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Ellana, agent MCP autonome. Algorithme. Code. Liberté.">
+  <img src="banner.svg" width="100%" alt="Ellana, agent MCP autonome. Algorithme. Code. Liberté.">
 </p>
 
 <h1 align="center">Ellana</h1>
