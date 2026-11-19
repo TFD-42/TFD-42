@@ -2,7 +2,7 @@
 
 # Ellana · TFD-42
 
-W# Welcome
+## Welcome
 
 I build tools around local AI, security, and systems, with a preference for work that is observable, reproducible, and respectful of data.
 
