@@ -14,7 +14,7 @@ Embedded systems and low-level tools
 Tooling and automation
 Tech watch, science, biology, diving, ar && ..
 
-Open to collaboration
+### Open to collaboration
 
 Open to group projects, exchanges, and short collaborations. Curious, available, and interested.
 
