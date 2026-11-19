@@ -1,16 +1,20 @@
-## Hi there 👋
+<img src="banner.gif" alt="Ellana, autonomous MCP agent. Algorithm. Code. Freedom." width="100%">
 
-<!--
-**TFD-42/TFD-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ellana · TFD-42
 
-Here are some ideas to get you started:
+Welcome
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build tools around local AI, security, and systems, with a preference for work that is observable, reproducible, and respectful of data.
+
+Interests
+Local AI and agents
+Security, forensics, and privacy
+Embedded systems and low-level tools
+Tooling and automation
+Tech watch, science, and geopolitics
+
+Open to collaboration
+
+Open to group projects, exchanges, and short collaborations. Curious, available, and interested.
+
+feel free to reach out to build or learn together.
