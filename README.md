@@ -1,8 +1,8 @@
 <img src="banner.gif" alt="Ellana, autonomous MCP agent. Algorithm. Code. Freedom." width="100%">
 
-#Ellana · TFD-42
+# Ellana · TFD-42
 
-W#elcome
+W# Wlcome
 
 I build tools around local AI, security, and systems, with a preference for work that is observable, reproducible, and respectful of data.
 
