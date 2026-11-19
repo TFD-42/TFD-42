@@ -2,11 +2,12 @@
 
 # Ellana · TFD-42
 
-W# Wlcome
+W# Welcome
 
 I build tools around local AI, security, and systems, with a preference for work that is observable, reproducible, and respectful of data.
 
-Interests
+### Interests:
+
 Local AI and agents
 Security, forensics, and privacy
 Embedded systems and low-level tools
